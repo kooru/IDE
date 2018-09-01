@@ -1,0 +1,16 @@
+<application>
+  <component name="PowerModeII">
+    <option name="blueTo" value="76" />
+    <option name="colorAlpha" value="255" />
+    <option name="flamesEnabled" value="false" />
+    <option name="frameRate" value="60" />
+    <option name="gravityFactor" value="51.84" />
+    <option name="greenTo" value="33" />
+    <option name="isBamEnabled" value="false" />
+    <option name="redFrom" value="92" />
+    <option name="shakeEnabled" value="false" />
+    <option name="soundsFolder" value="$APPLICATION_HOME_DIR$/bin" />
+    <option name="sparkSize" value="6" />
+    <option name="sparkVelocityFactor" value="5.63" />
+  </component>
+</application>

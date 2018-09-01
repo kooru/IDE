@@ -1,0 +1,38 @@
+<application>
+  <component name="BuiltInServerOptions" builtInServerPort="8000" />
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/DE/CodeStyle/google/intellij-java-google-style.xml" />
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="7.4.0" last-modified="1483550678000" />
+    </local-interpreter>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_SEARCH_IN_COMMENTS" value="false" />
+    <option name="MOVE_SEARCH_FOR_TEXT" value="false" />
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="http://192.1.1.100/tbadmin" />
+        <option value="http://192.1.1.100/tbstudio" />
+        <option value="http://192.1.1.100/tbmanager" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://192.1.1.100/tbadmin" />
+        <option value="http://192.1.1.100/tbstudio" />
+        <option value="http://192.1.1.100/tbmanager" />
+        <option value="http://192.168.7.187:4321/was3/SysMaster5.git" />
+        <option value="https://svn.alfresco.com/repos/alfresco-open-mirror/alfresco/COMMUNITYTAGS/V4.2f/root/" />
+      </list>
+    </option>
+  </component>
+</application>

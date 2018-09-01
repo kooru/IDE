@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".pom.xml.swp" type="PLAIN_TEXT" />
+      <mapping pattern="message" type="PLAIN_TEXT" />
+      <mapping ext="cp" type="PLAIN_TEXT" />
+      <mapping ext="map" type="PLAIN_TEXT" />
+      <mapping ext="lst" type="PLAIN_TEXT" />
+      <mapping ext="dto" type="PLAIN_TEXT" />
+      <mapping ext="msg" type="PLAIN_TEXT" />
+      <mapping ext="dof" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
